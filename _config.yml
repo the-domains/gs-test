@@ -1,7 +1,7 @@
 name: GS test
 favicon: null
-layout_spectrum: 0.16446714708581567
-typography_spectrum: 0.2838771026581526
+layout_spectrum: 0.99967
+typography_spectrum: 0.8611
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.2848147845361382
-  lightness: 0.3263616762124002
-  saturation: 0.563977065961808
-  rhythmicContrast: 0.4205814665183425
+  brandStrength: 0.1875
+  lightness: 0.6875
+  saturation: 0.875
+  rhythmicContrast: 0.25
 purpose: []
